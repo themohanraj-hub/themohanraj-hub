@@ -16,7 +16,7 @@
 ---
 
 ## 🚀 Projects
-
+|---|---|---|
 | Project | Tech Used | Description |
 | ReadHub Website | HTML, CSS, JavaScript | Interactive reading platform with dynamic content |
 | Perfume Website | HTML, CSS | Responsive e-commerce website |
