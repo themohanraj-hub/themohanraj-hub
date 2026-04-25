@@ -16,11 +16,10 @@
 ---
 
 ## 🚀 Projects
-|---|---|---|
 | Project | Tech Used | Description |
 | ReadHub Website | HTML, CSS, JavaScript | Interactive reading platform with dynamic content |
 | Perfume Website | HTML, CSS | Responsive e-commerce website |
-| Cloud Violation Surveillance | Python, Cloud, Image Processing | Final year project — real-time safety violation detection |
+| Cloud Violation Surveillance | Python, Cloud, Image Processing | Final year project — real-time safety violation detection|
 
 ---
 
